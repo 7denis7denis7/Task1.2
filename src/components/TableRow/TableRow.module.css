@@ -1,0 +1,36 @@
+td{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #464E5F;
+    padding: 10px;
+}
+
+button{
+    border: none;
+    outline-color: transparent;
+    outline-width: 0px;
+    background: transparent;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+button:active,
+button:focus{
+    outline-color: transparent;
+    outline-width: 0px;
+}
+
+.edit{
+    color: #2F80ED;
+}
+
+.delete{
+    color: red;
+}
+
+.name{
+    min-width: 100px;
+}

@@ -1,0 +1,16 @@
+.title{
+    background: #F3F6F9;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 15px;
+    letter-spacing: 0.03em;
+    color: #B5B5C3;
+    padding: 10px;
+    text-align: left;
+}
+.title:first-child{
+    border-radius: 10px 0 0 0;
+}
+.title:last-child{
+    border-radius: 0 10px 0 0;
+}
