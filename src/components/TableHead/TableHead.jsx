@@ -1,4 +1,4 @@
-import TableHeadStyle from './TableHead.module.css';
+import TableHeadStyle from './TableHead.module.scss';
 
 function TableHead() {
   return (

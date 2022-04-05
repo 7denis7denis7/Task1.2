@@ -5,9 +5,8 @@ body{
 .table{
   width: 100%;
   border-collapse:collapse
-}
-
-.table tbody{
-  border: 1px solid #F3F6F9;
-  border-top: none;
+  tbody{
+    border: 1px solid #F3F6F9;
+    border-top: none;
+  }
 }

@@ -1,8 +1,11 @@
+$mainColor: #464E5F;
+$blue: #2F80ED;
+
 td{
     font-weight: 500;
     font-size: 16px;
     line-height: 20px;
-    color: #464E5F;
+    color: $mainColor;
     padding: 10px;
 }
 
@@ -24,7 +27,7 @@ button:focus{
 }
 
 .edit{
-    color: #2F80ED;
+    color: $blue;
 }
 
 .delete{
